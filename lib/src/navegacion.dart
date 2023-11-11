@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pantalla de ',
+      title: 'Pantalla de Sebastian Vaca',
       theme: ThemeData(
         primarySwatch: Colors.green,
         visualDensity: VisualDensity.adaptivePlatformDensity,
@@ -26,7 +26,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Kendrick Lamar - Sebasrian Vaca',
+          'Kendrick Lamar - Sebastian Vaca',
           style: TextStyle(
             fontFamily: 'Tinos',
             fontSize: 24.0,
